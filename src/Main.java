@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("push changes")
 //        int a = 0;
 //        int b = 1;
 //        int i = 0;
